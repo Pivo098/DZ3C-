@@ -1,0 +1,15 @@
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\obj\Debug\net6.0\Primer_1.csproj.AssemblyReference.cache
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\obj\Debug\net6.0\Primer_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\obj\Debug\net6.0\Primer_1.AssemblyInfoInputs.cache
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\obj\Debug\net6.0\Primer_1.AssemblyInfo.cs
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\obj\Debug\net6.0\Primer_1.csproj.CoreCompileInputs.cache
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\bin\Debug\net6.0\Primer_1.exe
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\bin\Debug\net6.0\Primer_1.deps.json
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\bin\Debug\net6.0\Primer_1.runtimeconfig.json
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\bin\Debug\net6.0\Primer_1.dll
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\bin\Debug\net6.0\Primer_1.pdb
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\obj\Debug\net6.0\Primer_1.dll
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\obj\Debug\net6.0\refint\Primer_1.dll
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\obj\Debug\net6.0\Primer_1.pdb
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\obj\Debug\net6.0\Primer_1.genruntimeconfig.cache
+C:\Users\RabBoji'\Desktop\DZ3C\Primeri\Primer_1\obj\Debug\net6.0\ref\Primer_1.dll
